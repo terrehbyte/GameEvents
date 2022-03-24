@@ -1,0 +1,14 @@
+{
+  "name": "com.terrehbyte.gameevents",
+  "displayName": "Game Events",
+  "version": "0.0.1",
+  "unity": "2020.4",
+  "description": "",
+  "keywords": [ "events" ],
+  "category": "extension asset",
+  "dependencies": {},
+    "author": {
+      "name": "Terry Nguyen (terrehbyte)",
+      "url": "https://terrehbyte.com"
+    }
+}
